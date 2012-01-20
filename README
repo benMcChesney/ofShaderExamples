@@ -1,0 +1,16 @@
+Hello ! 
+
+This is a collection of shaders that I stared to learn GLSL. I hope they are helpful and anyone is free to do as they like with them
+
+Project files for xCode on mac but it's based off of the shader example in apps/examples/
+
+Examples : 
+simpleFragShader/ - changes the color of text based on mouse 
+toonShader/ - limiting the renderable color palette ( basic toon shader )
+lightingExample/ - light with ambient and diffuse. Specular is next !
+
+//TO-DO In the future
+Fog 
+Depth / Depth of Field 
+Bloom Effect
+CubeMap
